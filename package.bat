@@ -1,1 +1,1 @@
-pyinstaller --onedir --windowed --add-data "images;images" --add-data "sounds;sounds" --add-data "font;font" main.py
+pyinstaller --onedir --windowed --add-data "images;images" --add-data "sounds;sounds" --add-data "font;font" main.py -n "Monkey Maze"
