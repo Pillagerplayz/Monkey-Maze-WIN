@@ -12,7 +12,7 @@ This is the **DEV** edition of the game for **Windows**. If you want to mod the 
 2. Configure Git for your account. The brackets are placeholders for what is inside them:<br />
     `git config --global user.name "[Name]"`<br />
     `git config --global user.email [YourEmail]`
-2. Clone this repository: `git clone`.
+2. Clone this repository: `git clone https://github.com/Pillagerplayz/Monkey-Maze-WIN.git`.
 3. Navigate to `Monkey Maze WIN`: `cd "Monkey Maze WIN"`
 3. Create a .venv in the created directory with this command: `python3 -m venv .venv`.
 4. Activate the venv: `.venv/Scripts/Activate`.
